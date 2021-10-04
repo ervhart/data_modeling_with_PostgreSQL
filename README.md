@@ -1,4 +1,4 @@
-# Data modeling with postgress (Udacity Nanadegree)
+# Data modeling with postgress 
 
 ## Introduction
 
