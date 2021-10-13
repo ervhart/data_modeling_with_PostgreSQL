@@ -38,7 +38,7 @@ starting containers
 
 
 
-logon to the app container from another terminer 
+logon to the app container from another terminal 
 >> docker exec -it “container-id” bash
 
 run the python scripts from app. 
