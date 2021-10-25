@@ -19,8 +19,7 @@ results with their expected results.
 
 ## Project Description
 
-In this project, you'll apply what you've learned on data 
-modeling with Postgres and build an ETL pipeline using Python. 
+In this project, build an ETL pipeline using Python. 
 To complete the project, you will need to define fact and 
 dimension tables for a star schema for a particular analytic focus, 
 and write an ETL pipeline that transfers data from files 
